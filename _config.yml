@@ -1,4 +1,4 @@
-baseurl: /blog
+baseurl: /myblog
 highlighter: pygments
 markdown: redcarpet
 timezone: China/Beijing
